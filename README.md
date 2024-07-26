@@ -1,2 +1,3 @@
-# ---few-shot-classification
-Телеграм-бот с искусственным интеллектом few shot classification
+# Телеграм-бот с искусственным интеллектом использующий модели few shot classification и Context Question Answering
+
+
