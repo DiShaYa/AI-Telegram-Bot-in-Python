@@ -15,7 +15,7 @@
 
 
 ## Пример работы
-![](https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering/blob/main/Демонстрация%20работы%20бота.png)
+<img src="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering/blob/main/Демонстрация%20работы%20бота.png" width="600">
 
 ## Инструкция по применению
 1. Откройте код проекта.
