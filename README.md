@@ -8,6 +8,8 @@
 * **Context Question Answering**: для поиска ответов на вопросы пользователей в заранее загруженном тексте.
 
 ## Схема работы
+<img src="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering/blob/main/телеграмбот.png" width="800">
+
 1. Пользователь отправляет запрос в Telegram бот.
 2. Бот классифицирует запрос на две категории: приветствие и вопрос.
    - Если это приветствие, бот отвечает шаблонным текстом.
